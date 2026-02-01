@@ -1,5 +1,5 @@
 cc_library_static {
-    name: "libinit_Infinix-X666",
+    name: "libinit_Itel-P661n",
     header_libs: [
         "libbase_headers",
     ],
@@ -9,6 +9,6 @@ cc_library_static {
     static_libs: [
         "libbase",
     ],
-    srcs: ["init_Infinix-X666.cpp"],
+    srcs: ["init_Itel-P661n.cpp"],
     recovery_available: true,
 }
